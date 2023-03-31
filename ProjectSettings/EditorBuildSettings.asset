@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Face Filter.unity
+    path: Assets/Scenes/Robot Face Filter.unity
     guid: 851b65224d58242308dafad2428f748d
+  - enabled: 1
+    path: Assets/Scenes/Ice Cream Face Filter.unity
+    guid: 040467537fcc44b2684601317e1853b8
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}

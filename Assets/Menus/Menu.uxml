@@ -2,7 +2,7 @@
     <Style src="project://database/Assets/Menus/Menu.uss?fileID=7433441132597879392&amp;guid=d2ac8df7216cd4eb48757ce4f0525774&amp;type=3#Menu" />
     <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);" />
     <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
-        <ui:Button text="Load Scene 1" display-tooltip-when-elided="true" name="ButtonLoadScene1" class="button" />
-        <ui:Button text="Load Scene 2" display-tooltip-when-elided="true" name="ButtonLoadScene2" class="button" />
+        <ui:Button text="Robot Face Filter" display-tooltip-when-elided="true" name="ButtonLoadScene1" class="button" style="background-color: rgb(179, 248, 200);" />
+        <ui:Button text="Ice Cream Face" display-tooltip-when-elided="true" name="ButtonLoadScene2" class="button" style="background-color: rgb(160, 231, 228);" />
     </ui:VisualElement>
 </ui:UXML>
